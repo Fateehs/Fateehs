@@ -1,5 +1,4 @@
 ## Hi there! I'm [Fatih](https://www.fatihselvi.com) 👋
----
 
 -  I’m currently working on: **.NET 8 + Angular Hive Management Platform**
 -  Ask me about: `.NET`, `Angular`, `Entity Framework`, `Clean Architecture`
