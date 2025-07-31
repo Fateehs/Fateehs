@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fateehs&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fateehs&theme=radical" width="48%" />
+  <img src="https://fateehs-streak.vercel.app/?user=fateehs&theme=radical" width="48%" />
 </p>
 
 <p align="center">
