@@ -1,6 +1,4 @@
 ## Hi there! I'm [Fatih](https://www.fatihselvi.com) 👋
-<h3 align="left">.NET & Angular Developer</h3>
-
 ---
 
 -  I’m currently working on: **.NET 8 + Angular Hive Management Platform**
@@ -24,13 +22,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fateehs&show_icons=true&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateehs&layout=compact&theme=radical" width="50%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fateehs&show_icons=true&theme=radical" width="400"/>
+    </td>
+    <td style="width: 20px;"></td> <!-- Boşluk -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateehs&layout=compact&theme=radical" width="350"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
