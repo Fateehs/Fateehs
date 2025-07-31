@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Selvi</h1>
-<h3 align="center">.NET & Angular Developer | Clean Code Enthusiast | Freelance Problem Solver</h3>
+<h3 align="center">.NET & Angular Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fateehs&label=Profile%20views&color=0e75b6&style=flat" alt="fateehs" />
@@ -7,11 +7,10 @@
 
 ---
 
-- 🔭 I’m currently working on: **.NET 8 + Angular Hive Management Platform**
-- 🌱 I’m learning: **Advanced EF Core Patterns, CQRS, Blazor, Docker**
-- 💬 Ask me about: `.NET`, `Angular`, `Entity Framework`, `Clean Architecture`
-- 👨‍💻 All of my projects are available at: [github.com/Fateehs](https://github.com/Fateehs)
-- 📫 Reach me at: **fateehselvi@...**
+-  I’m currently working on: **.NET 8 + Angular Hive Management Platform**
+-  Ask me about: `.NET`, `Angular`, `Entity Framework`, `Clean Architecture`
+- 👨‍💻 All of my projects are available at: [github.com/Fateehs](https://github.com/Fateehs) & [fatihselvi.com](https://fatihselvi.com)
+- 📫 Reach me at: **fateehselvi@gmail.com**
 
 ---
 
@@ -39,14 +38,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- [Northwind Clean API](https://github.com/Fateehs/northwind-clean-api): `ASP.NET 8`, `Entity Framework`, `Repository Pattern`, `Unit Tests`
-- [Hive Manager Angular App](https://github.com/Fateehs/hive-app): `Angular`, `RxJS`, `Material`, `CRUD`, `DialogForms`
-- [Rust Plugin Set](https://github.com/Fateehs/rust-plugins): `C#`, `Oxide Mod`, `1000+ sales`
-
----
-
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fateehs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatih-enes-selvi-0217681b2)
