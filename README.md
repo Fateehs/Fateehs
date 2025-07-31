@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fatih Selvi</h1>
-<h3 align="center">.NET & Angular Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fateehs&label=Profile%20views&color=0e75b6&style=flat" alt="fateehs" />
-</p>
+<h1 align="left">Hi there! I'm [Fatih](https://fatihselvi.com) 👋</h1>
+<h3 align="left">.NET & Angular Developer</h3>
 
 ---
 
