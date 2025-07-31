@@ -1,7 +1,6 @@
 ## Hi, I'm [Fatih](https://www.fatihselvi.com)
 
 - Currently working on: **Hive Management Platform (.NET 8 & Angular)**
-- Areas of interest: ![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript), `Entity Framework Core`, `Clean Architecture`
 - Portfolio & blog: [fatihselvi.com](https://fatihselvi.com)
 - Contact: **fatiheselvi@gmail.com**
 
