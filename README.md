@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! I'm [Fatih](https://fatihselvi.com) 👋</h1>
+## Hi there! I'm [Fatih](https://www.fatihselvi.com) 👋
 <h3 align="left">.NET & Angular Developer</h3>
 
 ---
